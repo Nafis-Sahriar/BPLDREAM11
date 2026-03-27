@@ -1,0 +1,202 @@
+[
+  {
+    "playerImage": "https://i.ibb.co.com/8Dv9DHKr/kohli231007.jpg",
+    "playerName": "Virat Kohli",
+    "playerCountry": "India",
+    "playerType": "Batsman",
+    "rating": 95,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/TMZNJQwy/d92b210a882211aed740d36defd8154e-69a83c9f5d6a3.webp",
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 94,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/Kvhpdmz/461f465b-f448-49b7-b377-0bea46f1522b.jpg",
+    "playerName": "Joe Root",
+    "playerCountry": "England",
+    "playerType": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1350000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/whC6G9cx/kane-afp-opic-d.webp",
+    "playerName": "Kane Williamson",
+    "playerCountry": "New Zealand",
+    "playerType": "Batsman",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1450000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Ben Stokes",
+    "playerCountry": "England",
+    "playerType": "All-rounder",
+    "rating": 91,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1600000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/27kkVTW9/1736411449719-Shakib-Al-Hasan.webp",
+    "playerName": "Shakib Al Hasan",
+    "playerCountry": "Bangladesh",
+    "playerType": "All-rounder",
+    "rating": 92,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm orthodox spin",
+    "price": 1550000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Jasprit Bumrah",
+    "playerCountry": "India",
+    "playerType": "Bowler",
+    "rating": 96,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1700000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Shaheen Shah Afridi",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 94,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Left-arm fast",
+    "price": 1650000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Rashid Khan",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 95,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak googly",
+    "price": 1500000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "David Warner",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 90,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1300000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Liton Das",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 900000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Mujeeb Ur Rahman",
+    "playerCountry": "Afghanistan",
+    "playerType": "Bowler",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 950000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Quinton de Kock",
+    "playerCountry": "South Africa",
+    "playerType": "Wicketkeeper",
+    "rating": 91,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "N/A",
+    "price": 1200000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Marnus Labuschagne",
+    "playerCountry": "Australia",
+    "playerType": "Batsman",
+    "rating": 92,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm legbreak",
+    "price": 1400000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Andre Russell",
+    "playerCountry": "West Indies",
+    "playerType": "All-rounder",
+    "rating": 93,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1650000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Kagiso Rabada",
+    "playerCountry": "South Africa",
+    "playerType": "Bowler",
+    "rating": 94,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 1600000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Haris Rauf",
+    "playerCountry": "Pakistan",
+    "playerType": "Bowler",
+    "rating": 88,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast",
+    "price": 850000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Tamim Iqbal",
+    "playerCountry": "Bangladesh",
+    "playerType": "Batsman",
+    "rating": 87,
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 800000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Hardik Pandya",
+    "playerCountry": "India",
+    "playerType": "All-rounder",
+    "rating": 89,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1300000
+  },
+  {
+    "playerImage": "https://i.ibb.co.com/sdPBg7vL/Screenshot-2026-03-26-230729.png",
+    "playerName": "Glenn Maxwell",
+    "playerCountry": "Australia",
+    "playerType": "All-rounder",
+    "rating": 90,
+    "battingStyle": "Right-hand bat",
+    "bowlingStyle": "Right-arm offbreak",
+    "price": 1400000
+  }
+]
