@@ -7,7 +7,7 @@ import Players from './Components/Player Section/Players';
 import { ToastContainer } from 'react-toastify';
 
 const playerData = async()=>{
-  const res = await fetch("../public/playerData.json");
+  const res = await fetch("/playerData.json");
   return res.json();
 };
 
